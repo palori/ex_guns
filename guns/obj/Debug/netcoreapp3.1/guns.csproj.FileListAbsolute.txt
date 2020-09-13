@@ -1,0 +1,13 @@
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\obj\Debug\netcoreapp3.1\guns.csprojAssemblyReference.cache
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\obj\Debug\netcoreapp3.1\guns.AssemblyInfoInputs.cache
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\obj\Debug\netcoreapp3.1\guns.AssemblyInfo.cs
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\obj\Debug\netcoreapp3.1\guns.csproj.CoreCompileInputs.cache
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\bin\Debug\netcoreapp3.1\guns.exe
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\bin\Debug\netcoreapp3.1\guns.deps.json
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\bin\Debug\netcoreapp3.1\guns.runtimeconfig.json
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\bin\Debug\netcoreapp3.1\guns.runtimeconfig.dev.json
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\bin\Debug\netcoreapp3.1\guns.dll
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\bin\Debug\netcoreapp3.1\guns.pdb
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\obj\Debug\netcoreapp3.1\guns.dll
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\obj\Debug\netcoreapp3.1\guns.pdb
+C:\Users\pa1_1\Documents\GitHub\ex_guns\guns\obj\Debug\netcoreapp3.1\guns.genruntimeconfig.cache
